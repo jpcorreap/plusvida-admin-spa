@@ -1,0 +1,503 @@
+﻿id;value
+13-1;Allianz Seguros S.A.
+13-14;Aseg Generali Colombiaseguros Generales S.A.
+13-15;Aseg Royal & Sun Alliance Seguros (Colombia) S.A.
+13-17;Aseg Compañía Mundial de Seguros S.A.
+13-18;Seguros Generales Suramericana S.A.
+13-19;Aseg Cóndor SA Compañía de Seguros Generales
+13-21;Aseg Chubb de Colombia Compañía de Seguros S.A.
+13-22;Chartis Seguros Colombia S.A.
+13-24;Aseg la Previsora S.A. Compañía de Seguros
+13-25;Aseg Seguros Alfa S.A.
+13-26;Aseg Mapfre Seguros Generales de Colombia S.A.
+13-27;Aseg Seguros Comerciales Bolívar S.A.
+13-29;Aseg Seguros del Estado S.A.
+13-30;Aseg Segurexpo de Colombia SA Aseguradora de Crédito y del Comercio Exterior
+13-33;Aseg Liberty Seguros S.A.
+13-41;Aseg BBVA Seguros Colombia S.A.
+13-42;Mapfre Seguros de Credito S.A.
+13-44;Cardif Colombia Seguros Generales S.A.
+13-5;Aseg ACE Seguros S.A.
+13-6;Aseg Seguros Colpatria S.A.
+13-7;ECO Seguros S.A.
+13-8;Aseg Compañía Aseguradora de Fianzas Sa
+13-9;Central de Seguros
+14-1;Allianz Seguros de Vida S.A.
+14-10;Aseg Generali Colombia Vida Compañía de Seguros S.A.
+14-11;Aseg Seguros de Vida Suramericana S.A.
+14-13;Metlife Colombia S.A
+14-16;Aseg PanAmerican Life de Colombia Compañía de Seguros de Vida S.A.
+14-17;Seguros de Vida Alfa S.A. Vidalfa S.A.
+14-18;Liberty Seguros de Vida S.A.
+14-19;Aseg Seguros de Vida del Estado S.A.
+14-20;Global Seguros
+14-23;Positiva Compañía de Seguros S.A.
+14-25;Compañía de Seguros de Vida Colmena S.A.
+14-26;Aseg BBV Seguros Ganadero Compañía de Seguros de Vida SA La Ganadera Administradora de Riesgos Profesionales
+14-28;Seguros de Riesgos Laborales Suramericana S.A.
+14-29;La Equidad Seguros de Vida
+14-30;Mapfre Colombia Vida Seguros S.A
+14-31;Bmi Colombia S.A.
+14-4;Seguros de Vida AXA Colpatria S.A.
+14-7;Compañía de Seguros Bolívar S.A.
+14-8;Compania de Seguros de Vida Aurora S.A.
+15-1;la Equidad Seguros Generales
+15-2;Aseg Solidaria de Colombia Ltda Entidad Cooperativa Solidaria
+ARL001;ARL Positiva
+ARL002;Seguros Bolívar
+ARL003;Seguros de Vida Aurora Sa
+ARL004;Liberty Seguros de Vida
+ARL005;Mapfre Colombia Vida Seguros S.A.
+ARL006;Riesgos Laborales Colmena
+ARL007;Seguros de Vida Alfa
+ARL008;Seguros de Vida Colpatria S.A.
+ARL009;Seguros de Vida la Equidad Organismo C.
+ARL010;SURA Cia. Suramericana de Seguros de Vida
+ARP020;Royal & Sunalliance
+ARP026;Aseg BBVA Ganadero S.A.
+AT1333;Aseg Liberty Seguros S.A.
+CCF001;Caja de Compensación Familiar Camacol Comfamiliar Camacol
+CCF002;Caja de Compensación Familiar de Antioquia Ucomfamao
+CCF004;Caja de Compensación Familiar de Arauca (Comfiar)
+CCF005;Caja de Compensación Familiar de Barranquilla (Combarranquilla)
+CCF006;Caja de Compensancion Familiar Comfamiliar del Atlántico
+CCF007;Caja de Compensación Familiar de Cartagena y Bolívar Comfamiliar
+CCF008;Caja de Compensancion Familiar de Fenalco Andi Comfenalco Cartagena
+CCF009;Caja de Compensación Familiar de Boyacá Ucomfaboyo
+CCF010;Caja de Compensación Familiar de la Dorada (Comfamiliar)
+CCF011;Caja de Compensación Familiar de Caldas (Comfamiliares)
+CCF012;Caja de Compensación Familiar del Caquetá (Comfaca)
+CCF013;Caja de Compensación Familiar del Cesar (Comfacesar)
+CCF014;Caja de Compensación Familiar del Cauca (Comfacauca)
+CCF015;Caja de Compensación Familiar de Córdoba Ucomfacoro
+CCF016;Caja de Compensación Familiar Aseguradores
+CCF017;Caja de Compensación Familiar Asfamilias
+CCF018;Caja de Compensación Familiar Ucafamo
+CCF019;Caja de Compensación Familiar Colsubsidio
+CCF020;Caja de Compensación Familiar Campesina
+CCF021;Caja de Compensación Familiar de Cundinamarca Comfacundi
+CCF022;Caja de Compensación Familiar Compensar
+CCF023;Caja de Compensación Familiar de la Guajira Comfaguajira
+CCF024;Caja de Compensación Familiar del Huila Ucomfamiliar Huilao
+CCF025;Caja de Compensación Familiar de Magdalena
+CCF026;Caja de Compensación Familiar Regional del Meta Cofrem
+CCF027;Caja de Compensación Familiar de Nariño
+CCF028;Caja de Compensación Familiar de Fenalco Comfenalco Quindío
+CCF029;Caja de Compensación Familiar de Risaralda Comfamiliar Risaralda
+CCF030;Caja de Compensación Familiar de la Cámara de Comercio de San Andrés y Providencia Islas Cajasai
+CCF031;Caja Santandereana de Subsidio Familiar Cajasan
+CCF032;Caja de Compensación Familiar Comfenalco Santander
+CCF033;Caja de Compensación Familiar de Sucre
+CCF034;Caja de Compensación Familiar del Sur del Tolima Cafasur
+CCF035;Caja de Compensación Familiar de Barrancabermeja
+CCF036;Caja de Compensación Familiar del Tolima Comfatolima
+CCF037;Caja de Compensación Familiar de Fenalco de Tolima Comfenalco
+CCF038;Caja de Compensación Familiar Comfamiliar Buenaventura
+CCF039;Caja de Compensación Familiar de Buga
+CCF040;Caja de Compensación Familiar de Cartago Comfacartago
+CCF041;Caja de Compensación Familiar del Valle del Cauca Comfamiliar Andi
+CCF042;Caja de Compensación Familiar Comfamiliares Unidas del Valle 'comfaunion
+CCF043;Caja de Compensación Familiar de Fenalco Comfenalco Buga
+CCF045;Caja de Compensación Familiar del Norte de Santander Comfanorte
+CCF046;Caja de Compensación Familiar de Acopi Barranquilla
+CCF047;Caja de Compensación Familiar Indufamiliar
+CCF048;Caja de Compensación Familiar Acopi Comfacopi
+CCF049;Caja de Compensación Familiar del Oriente Colombiano Ucomfaorienteo
+CCF050;Caja de Compensación Familiar del Oriente Colombiano Comfaoriente
+CCF053;Caja de Compensación Familiar de Cundinamarca Comfacundi
+CCF054;Caja de Compensación Familiar de Fenalco Comfenalco Cundinamarca
+CCF055;Caja de Compensación Familiar Cajacopi Atlántico
+CCF101;Caja Colombiana de Subsidio Familiar Colsubsidio
+CCF102;Caja de Compensación Familiar del Chocó
+CCF103;Comfaca
+CCFC07;Caja de Compensación Familiar de Cartagena y Bolívar Comfamiliar
+CCFC09;Caja de Compensación Familiar de Boyacá Ucomfaboyo
+CCFC10;Caja Colombiana de Subsidio Familiar Colsubsidio
+CCFC15;Caja de Compensación Familiar de Córdoba Ucomfacoro
+CCFC18;Caja de Compensación Familiar Ucafamo
+CCFC20;Caja de Compensación Familiar del Chocó
+CCFC23;Caja de Compensación Familiar de la Guajira Comfaguajira
+CCFC24;Caja de Compensación Familiar del Huila Ucomfamiliar Huilao
+CCFC27;Caja de Compensación Familiar de Nariño
+CCFC33;Caja de Compensación Familiar de Sucre
+CCFC50;Caja de Compensación Familiar del Oriente Colombiano Comfaoriente
+CCFC53;Caja de Compensación Familiar de Cundinamarca Comfacundi
+CCFC55;Caja de Compensación Familiar Cajacopi Atlántico
+CCFCO2;Caja de Compensación Familiar de Antioquia Comfama Savia Salud EPS Contributivo
+EAS001;EAS EAS Caja de Prev Soc de Nariño
+EAS002;EAS EAS Caja de Prev Soc de la Universidad Industrial de Santander
+EAS003;EAS EAS Caja de Prev Soc Municipal de Bucaramanga
+EAS004;EAS Corporación Eléctrica de la Costa Caribe Servicio de Salud
+EAS005;EAS Universidad de Antioquia División de Salud
+EAS006;EAS División de Salud de la Universidad de Antioquia
+EAS007;EAS EAS Caja de Prev Soc Municipal de Ibagué
+EAS009;EAS EAS Caja de Prev Soc del Departamento de Arauca
+EAS010;EAS Servicio de Salud de la Corporación Autónoma Regional del Valle del Cauca
+EAS011;EAS Servicio Médico Universidad de Caldas
+EAS012;EAS Departamento Médico y Odontológico Municipio de Medellín
+EAS013;EAS División de Servicio Médico del Municipio de Santiago de Cali
+EAS014;EAS Caja de Prev Soc Departamental del Cauca
+EAS015;EAS Caja de Prev Soc de Boyacá
+EAS016;Empresas Públicas de Medellín E.S.P. Ee.Pp.M
+EAS017;EAS Caja de Prev Soc de la Superintendencia Bancaria
+EAS018;EAS Caja Departamental de Previsión de Norte de Santander
+EAS019;EAS Caja de Previsión Social de la Superintendencia Bancaria
+EAS020;EAS Caja de Prev Soc de la Universidad Tecnológica del Chocó
+EAS021;EAS Caja de Prev Soc de la Universidad Nacional
+EAS022;EAS Inst Col de la Reforma Agraria Prog Sma
+EAS024;EAS Servicio Médico de la Universidad del Valle
+EAS025;EAS Fondo de Salud de la Universidad de Córdoba
+EAS026;EAS Fondo Prestacional de la Universidad de Narino
+EAS027;Fondo de Pasivo Social de Ferrocarriles Nacionales de Colombia
+EAS029;EAS Empresa Acueducto y Alcantarillado de Bogotá Sm
+EAS030;EAS Caja de Prev Soc de la Universidad de Cartagena
+EMP002;Medplus Medicina Prepagada S.A.
+EMP005;Emp Salud Coomeva
+EMP012;Emp Humana S.A.
+EMP014;Emp Medisalud
+EMP015;Medisanitas S.A. Compañía de Medicina Prepagada
+EMP017;Colmedica Medicina Prepagada S A
+EMP019;Emp Salud Colpatria S.A.
+EMP021;EPS y Medicina Prepagada Suramericana S.A.
+EMP022;Vivir S.A. Medicina Prepagada
+EMP023;Compañía de Medicina Prepagada Colsanitas S.A.
+EMP024;Servicio de Salud Inmediato Medicina Prepagada S.A.
+EMP025;Plan U.H.C.M. Medicina Prepagada Comfenalco Valle
+EMP028;Coomeva Medicina Prepagada S.A.
+EMP029;Axa Colpatria Medicina Prepagada S.A.
+EMPT01;Emp Salud Colpatria S.A.
+EPS001;Aliansalud
+EPS002;Salud Total Epss S.A.
+EPS003;Cafesalud Entidad Promotora de Salud S.A. Cafesalud EPS S.A.
+EPS004;EPS Bonsalud S.A.
+EPS005;Entidad Promotora de Salud Sanitas S.A. E.P.S. Sanitas S.A.
+EPS006;Instituto de Seguros Sociales Entidad Promotora de Salud en Liquidación
+EPS007;EPS Unimec S.A.
+EPS008;Caja Compensación Familiar Compensar
+EPS009;Caja de Compensación Familiar Ucomfenalco Antioquia
+EPS010;EPS y Medicina Prepagada Suramericana S.A.
+EPS011;EPS Colseguros
+EPS012;EPS Comfenalco Valle
+EPS013;Saludcoop Entidad Promotora de Salud Organismo Cooperativo Saludcoop
+EPS014;Humana Vivir S A
+EPS015;Salud Colpatria S.A Entidad Promotora de Salud en Liquidación Salud Colpatria S.A E.P.S
+EPS016;Coomeva Entidad Promotora de Salud S.A. Coomeva E.P.S. S.A.
+EPS017;Famisanar Ltda. Cafam Colsubsidio E.P.S.
+EPS018;Entidad Promotora de Salud Servicio Occidental de Salud S.A. S.O.S.
+EPS019;EPS Risaralda Ltda
+EPS020;Caja de Previsión Social de Comunicaciones Ucaprecomo
+EPS021;EPS Corporanonimas en Liquidacion
+EPS022;Entidad Promotora de Salud del Régimen Subsidiado EPS Convida
+EPS023;Cruz Blanca Entidad Promotora de Salud S.A
+EPS024;EPS Cajanal
+EPS025;Caja de Previsión Social de Casanare Capresoca E.P.S.
+EPS026;Legal Strategy SAS Mandataria Solsalud EPS Liquidada
+EPS027;EPS Barranquilla Sana
+EPS028;Calisalud Entidad Promotora de Salud en Liquidación
+EPS029;EPS de Caldas S.A.
+EPS030;Entidad Promotora de Salud Cóndor S.A.  E.P.S. Cóndor S.A
+EPS031;Selvasalud S.A. Epss en Liquidación Forzosa Administrativa
+EPS032;EPS Metropolitana de Salud
+EPS033;Saludvida E.P.S. S.A.
+EPS034;Saludcolombia Entidad Promotora de Salud S.A.
+EPS035;Red Salud Atención Humana E.P.S. S.A. en Liquidación
+EPS037;Nueva Empresa Promotora de Salud S.A. Sigla Nueva EPS S.A.
+EPS038;Multimedicas Salud con calidad Entidad Promotora de Salud S.A. en Liquidacion
+EPS039;Golden Group S.A. Entidad Promotora de Salud y Podra Usar Las Siglas Golden Group S.A. EPS
+EPS040;Alianza Medellin Antioquia EPS S.A.S. Savia Salud
+EPS044;Medimas EPS SAS
+EPS045;Medimas EPS SAS
+EPS046;Fundación Salud Mia EPS
+EPSC03;Cafesalud EPS Contributivo
+EPSC20;Caja de Previsión Social de Comunicaciones Ucaprecomo
+EPSC22;Entidad Promotora de Salud del Regimen Subsidiado EPS Convida
+EPSC25;Caja de Previsión Social de Casanare Capresoca E.P.S.
+EPSC33;Salud Vida Contributivo
+EPSC34;Capital Salud Entidad Promotora de Salud del Régimen Subsidiado SAS Capital Salud EPS S SAS
+EPSI01;Asociación de Cabildos Indígenas del Cesar y la Guajira Dusakawi EPSI
+EPSI02;Asociación de Cabildos del Resguardo Indígena Zenu de San Andrés de Sotavento Córdoba y Sucre Manexka
+EPSI03;Asociación Indigena del Cauca A.I.C. Epsi
+EPSI04;Empresa Promotora de Salud Indígena Anas Wayuu Epsi
+EPSI05;Entidad Promotora de Salud Mallamas Epsi
+EPSI06;Pijaos Salud Epsi
+EPSIC1;Asociación de Cabildos Indígenas del Cesar y la Guajira Dusakawi Epsi
+EPSIC2;Asociación de Cabildos del Resguardo Indígena Zenu de San Andrés de Sotavento Córdoba y Sucre Manexka
+EPSIC3;Asociación Indígena del Cauca A.I.C. Epsi
+EPSIC4;Empresa Promotora de Salud Indígena Anas Wayuu Epsi
+EPSIC5;Entidad Promotora de Salud Mallamas Epsi
+EPSIC6;Pijaos Salud Epsi
+EPSM03;Cafesalud Subsidiado
+EPSM33;Salud Vida S.A. Entidad Promotora de Salud Subsidiado
+EPSS01;Aliansalud Entidad Promotora de Salud S.A
+EPSS02;Salud Total Entidad Promotora de Salud del Régimen Contributivo y del Régimen Subsidiado S.A.
+EPSS03;Cafesalud Entidad Promotora de Salud S.A. Cafesalud EPS S.A.
+EPSS05;Entidad Promotora de Salud Sanitas S.A. E.P.S. Sanitas S.A.
+EPSS08;Caja Compensación Familiar Compensar
+EPSS09;Comfenalco Antioquia Subsidiado
+EPSS10;EPS y Medicina Prepagada Suramericana S.A.
+EPSS12;Comfenalco Valle EPS Subsidiado
+EPSS13;Saludcoop Entidad Promotora de Salud Organismo Cooperativo Saludcoop
+EPSS14;Humana S A Epss en Liquidación
+EPSS16;Coomeva Eps. S.A. Subsidiado
+EPSS17;EPS Famisanar Ltda. Subsidiado
+EPSS18;Entidad Promotora de Salud Servicio Occidental de Salud S.A. S.O.S.
+EPSS20;EPS Caprecom
+EPSS22;EPS Convida
+EPSS23;Cruz Blanca Entidad Promotora de Salud S.A
+EPSS25;Capresoca
+EPSS26;Legal Strategy SAS Mandataria Solsalud EPS Liquidada
+EPSS28;EPS Calisalud
+EPSS30;EPS Cóndor S.A.
+EPSS31;EPS Selvasalud S.A.
+EPSS33;Saludvida E.P.S. S.A.
+EPSS34;Capital Salud Entidad Promotora de Salud del Régimen Subsidiado SAS Capital Salud EPS S SAS
+EPSS39;Golden Group S.A. Entidad Promotora de Salud y podra usar las siglas Golden Group S.A. EPS
+EPSS40;Alianza Medellín Antioquia EPS S.A.S.
+EPSS41;Nueva Empresa Promotora de Salud S.A. Sigla Nueva EPS S.A.
+EPSS44;Medimas EPS SAS
+EPSS45;Medimas EPS SAS
+EPSS46;Fundación Salud Mia EPS
+EPSSO1;Aliansalud Entidad Promotora de Salud S.A. Subsidiado
+EPSSO2;Salud Total S.A. Entidad Promotora de Salud Subsidiado
+EPST01;Savia Salud EPS
+ESS002;Empresa Mutual Para El Desarrollo Integral de la Salud E.S.S Emdisalud E.S.S Epss
+ESS024;Cooperativa Empresa Solidaria de Salud y Desarrollo Integral Ucoosalud E.S.S.
+ESS031;ESS Coesalud Ltda
+ESS032;ESS Ecosboyaca
+ESS033;ESS Coopsaludesa Ltda
+ESS034;ESS Copesam Ltda ESS
+ESS035;ESS Coesperanza Ltda
+ESS036;ESS Coopcentro
+ESS037;ESS Famisalud
+ESS038;ESS Aagrosalud
+ESS039;ESS Asociación Mutual Para la Salud y Desarrollo Integral la Esperanza
+ESS040;ESS Mutualmani Ltda
+ESS041;ESS Mutuorocue Ltda
+ESS042;ESS Mutualpaz Ltda
+ESS043;ESS Mutuopalenque Ltda
+ESS044;ESS Mutualtauramena Ltda
+ESS045;ESS Mutualyopal Ltda
+ESS046;ESS de Argelia Ampebiv
+ESS047;ESS Asociación Mutual la Nueva Esperanza
+ESS048;ESS Asociación Mutual Campesina de Salud Bolivar
+ESS049;ESS Asociación Mutual de Salud Vida Nueva de Buenos Aires
+ESS050;ESS Asociación Mutual Campesina de Salud de Cajibio
+ESS051;ESS Asociación Mutual La Mano Amiga
+ESS052;ESS Asociación Mutual Solidaria de Salud del Municipio de El Patia E
+ESS053;ESS Asociación Mutual La Esperanza
+ESS054;ESS Asociación Mutual Prosalud Campesina Mercaderes
+ESS055;ESS Asociación Mutual Vivir Mejor Asmuvime
+ESS056;ESS Asociación Mutual Piendasalud
+ESS057;ESS Asociación Mutual Activa Salud
+ESS058;ESS Coosabfam
+ESS059;ESS Asociación Mutual de Salud de Inza Capital Arqueológica Amsicac
+ESS060;ESS Asociación Mutual Coconuco Puracé
+ESS061;ESS Asociación Mutual la Suiza de América
+ESS062;Asmet Salud EPS SAS
+ESS063;ESS Asociación Mutual Para la Salud Desarrollo y Futuro Timbiano
+ESS064;ESS Asociación Mutual Nuevo Horizonte de Timbiquí
+ESS065;ESS Cooperativa la Nueva Esperanza de Curumaní
+ESS066;ESS Asociación Mutual ESS Jagua de Ibirico Asom
+ESS067;ESS Asociación Mutual Solidarias de Salud de Valledupar
+ESS068;ESS Asociación Solidaria de Salud de Astrea
+ESS069;ESS Asociación Alcides Fernandez ESS de Acandí
+ESS070;ESS Asociación Playas del Pacífico ESS
+ESS071;ESS Asociación Mutual El Revivir Bajo Baudó
+ESS072;ESS Asociación Avancemos ESS de Bojayá
+ESS073;ESS Asociación de Salud Carmeleña ESS
+ESS074;ESS Asociación Golfo de Tribuga ESS
+ESS075;ESS Asociación Mutual El Buen Vivir ESS Río Quito
+ESS076;Asociación Mutual Barrios Unidos de Quibdó Ambuq Epss ESS
+ESS077;ESS Asociación Milagro de Dios
+ESS078;ESS Asociación Una Esperanza
+ESS079;ESS Asociación Mutual la Esperanza
+ESS080;ESS Ambusanber
+ESS081;ESS Asociación Mutual Salud de Lorica Amusal
+ESS082;ESS Asociación Mutual Salud del Sinú Amuss
+ESS083;ESS Amucis
+ESS084;ESS Amsoti ESS
+ESS085;ESS Ecosoriente
+ESS086;ESS Fondoproseguridad Social de Loteros de Bogotá
+ESS087;ESS Salud Norte
+ESS088;ESS Ecoopsals
+ESS089;ESS A M S de Caparrapí Amessalud
+ESS090;ESS CoopsolS.A.
+ESS091;Ecoopsos EPS SAS Epss
+ESS092;ESS Coopesaga Ltda
+ESS093;ESS Eciss
+ESS094;ESS Coopsam
+ESS095;ESS Coopdesu Ltda
+ESS096;ESS Ecoopsvergara
+ESS097;ESS Asociación Mutual de Chía ESS
+ESS098;ESS Asociación Mutual El Porvenir ESS de Yacopi
+ESS099;ESS Asociación ESS de Maicao
+ESS100;ESS Asociación ESS de Riohacha Asmudig
+ESS101;ESS Asociación Guaviare 2000 ESS
+ESS102;ESS Asociación Para la Salud Solidaria de la Argentina ESS
+ESS103;ESS Asociación Mutual de Solidaridad Plateña ESS Asomusp
+ESS104;ESS Asociación Mutual Macizo Colombiano ESS
+ESS105;ESS Cooperativa Villasalud Ltda
+ESS106;ESS Asociación Solidaria Para El Desarrollo Integral de Aracataca
+ESS107;ESS Asociación Mutual Solidaria Para la Salud y Desarrollo Integral de El Piñón
+ESS108;ESS Asociación Mutual Solidaria Para la Salud y Desarrollo Integral Para Fundación
+ESS109;ESS Corsapivi
+ESS110;ESS Corporacion Salud Para Puebloviejo
+ESS111;ESS Amsde Santa Marta Asmussalud
+ESS113;ESS Asociación Nuevo Amanecer ESS
+ESS114;ESS Asociación Mutual ESS Cuaspud Carlosama
+ESS115;ESS Asociación Mutual ESS Mallamas
+ESS116;ESS Asociación Mutual de la Cruz ESS
+ESS117;ESS Asociación Mutual Nuevo Amanecer de Mallama ESS Amuna
+ESS118;Asociación Mutual Empresa Solidaria de Salud Emssanar E.S.S
+ESS119;ESS Alcatraz Ltda
+ESS120;ESS Asociación Mutual Cooessalud
+ESS121;ESS Asomusavih
+ESS122;ESS Coeesspatios
+ESS123;ESS Copsosafa
+ESS124;ESS Amess
+ESS125;ESS Asociación Mutual Solidaria de Salud y Desarrollo Integral de Quimbaya
+ESS126;ESS Belén
+ESS127;ESS Asodispro
+ESS128;ESS Coomulseb Ltda
+ESS129;ESS Copesalud Ltda
+ESS130;ESS Coisbu Ltda
+ESS131;ESS Cooflorsalud Ltda
+ESS132;ESS Covisalud Ltda
+ESS133;Cooperativa de Salud Comunitaria Empresa Promotora de Salud Subsidiada Comparta Epss
+ESS134;ESS Villasalud Ltda
+ESS135;ESS A M S de Sabana de Torres
+ESS136;ESS Coesan Ltda
+ESS137;ESS Saluddar
+ESS138;ESS Empresa Coop Servicios de Salud Ècoopscunday
+ESS139;ESS Empresas Cooperativa del Salud de El Espinal
+ESS140;ESS Cooperativa de Buenaventura Coopesalud
+ESS141;ESS ESS Cooperativa de Salud Comutaria de Cali Coopsacoc
+ESS142;ESS ESS Cooperativa de Salud Solidaria de la Zona Plana del Sur
+ESS143;ESS Cooperativa de Palmira Essalud
+ESS144;ESS Cooperativa de Roldanillo
+ESS145;ESS Coopesac
+ESS146;ESS Coopsaver
+ESS147;ESS Cooperativa Zarzal
+ESS148;ESS Assavi
+ESS149;ESS Asociación Mutual Permanente de Valencia Amsap
+ESS150;ESS Cooperativa Empresa Solidaria de Salud del Huila Cooemsalud Ltda ESS
+ESS151;ESS Cooperativa Integral Essdosquebradas
+ESS152;Essac ESS
+ESS153;Essbalboa
+ESS154;ESS Coopregiosalud Ltda
+ESS155;ESS Asociación Mutual de Planadas Amuplan
+ESS156;ESS Cooperativa de Salud Comunitaria Coomunisalud
+ESS157;ESS Maria Ofelia Villamizar Buitrago
+ESS158;ESS Santa Clara de Cúcuta
+ESS159;ESS Puerto Santander
+ESS160;ESS Cooperativa Multiactiva Metropolitana Para la Salud Coomsalud
+ESS161;ESS Salazar Las Palmas
+ESS162;ESS Coopertiva Solidaria del Municipio de Arauquita Coopssa
+ESS163;ESS del Tibú
+ESS164;ESS Asociación de Cabildos del Consejo Regional Indígena Crit
+ESS165;ESS Salud Suba
+ESS166;ESS Coporación del Caribe Solcaribe
+ESS167;ESS Coop Esp en Sal en Colombia Colombiana de Salud Colsalud
+ESS168;ESS Cooperativa de Salud Tibu Coopsatibu ESS
+ESS169;ESS Asociación Mutual Solidatia de Salud de Cereté Amucer ESS
+ESS170;ESS Asociación Mutual ESS Guaitara de Ipiales
+ESS171;ESS Empresa Cooperativa de Salud del M/pio de Ataco la Esperanza
+ESS172;ESS Cooperativa Empresa Solidaria de Salud del Sur del Tolima Coepsurt ESS
+ESS173;ESS Cooperativa Solidaria de Salud Coopdesa
+ESS174;ESS Salud Colombia
+ESS175;ESS Asociación Mutual Admon Régimen Subsidiado en Salud Arssalud
+ESS176;ESS Asociación Mutual Ocaña Para la Salud Solidaria
+ESS177;ESS Asociación de Cabildos Indígenas del Cesar Dusakawi
+ESS178;ESS Asociación Mutual Despertar ESS
+ESS179;ESS Asociación Mutual la Sierra ESS Mutual la Sierra
+ESS182;ESS Asociaciín Indigena del Cauca Aic
+ESS183;Empresa ESS Cooperativa de Salud y Calidad de Vida Ltda Cooperativa Nacers Ltda ESS
+ESS184;ESS Asoc de Cabildos de Resguardo Ind Zenu de San Andrés de Sotavento Manexka
+ESS185;ESS Cooperativa Especializada de Salud Cooprevisalud Ltda
+ESS186;ESS Cooperativa la Magdalena Ltda ESS Coopsamam
+ESS187;ESS Asociación Mutual Los Andes Amuandes
+ESS188;Empresa Solidaria de Salud Personalizada Persalud
+ESS189;ESS Cooperativa Especializada de Salud del Norte de Santander Coornosalud
+ESS190;ESS Asociación Empresa Solidaria de Salud de la Guajira Solidsalud
+ESS191;ESS Cooperativa Generación Salud Genesalud ESS
+ESS192;Empresa Cooperativa de Servicios de Sociales Ecoss
+ESS193;ESS Cooperativa de Bienestar en Salud ESS Coobisalud ESS
+ESS194;ESS Coop Espen Salud Limitada Coessalud Ltda
+ESS195;ESS Cooperativa Multiactiva de Salud y Desrrollo Integral del Caribe Coopsacaribe
+ESS196;ESS Cooperativa Integral de Salud ESS Cooinsalud
+ESS197;ESS Cooperativa Empresa Solidaria de Salud ESS Salud Sarare Ltda
+ESS198;ESS Coop Espen Salud Para la Familia Colombiana Ltda Salud Familia Ltda
+ESS199;Empresa Solidaria de Salud El Rosal de San Rafael
+ESS200;ESS Cooperativa Salud y Vida ESS Coopsavid
+ESS201;Empresa Solidaria de Salud Mi Salud
+ESS202;ESS Cooperativa de Salud de la Costa Saludcosta
+ESS203;ESS Asociación Mutual Llanosalud Empresa Solidaria de Salud Llanosalud ESS
+ESS204;ESS Asociación Mutual Solidaria Para la Salud de Colombia ESS Colombia Solidaria
+ESS205;ESS Cooperativa Especializada en Salud Prosusalud ESS
+ESS206;ESS Cooperativa de Salud del Magdalena Medio Coopsaman
+ESS207;Asociación Mutual Ser Empresa Solidaria de Salud ESS
+ESS208;ESS Anas Wayuu EPS Indigena
+ESSC02;Empresa Mutual Para El Desarrollo Integral de la Salud E.S.S Emdisalud E.S.S Epss
+ESSC07;Asociación Mutual Ser Empresa Solidaria de Salud ESS
+ESSC18;Asociación Mutual Empresa Solidaria de Salud Emssanar E.S.S
+ESSC24;Ucoosalud E.S.S.O Entidad Promotora del Regimen Subsidiado Epss
+ESSC33;Cooperativa de Salud Comunitaria Empresa Promotora de Salud Subsidiada Comparta Epss
+ESSC62;Asmet Salud EPS SAS
+ESSC76;Asociación Mutual Barrios Unidos de Quibdó Ambuq Epss ESS
+ESSC91;Ecoopsos EPS SAS Epsc
+ESSCO2;Empresa Mutual Para el Desarrollo Integral de la Salud E.S.S. Emdisalud ESS Contributivo
+ESSCO7;Asociación Mutual Ser Empresa Solidaria de Salud ESS Contributivo
+HC1413;AIG Colombia Seguros de Vida S.A.
+MIN001;Fondo de Solidaridad y Garantia Ministerio de Salud
+PEC001;PE Servicio Nacional de Aprendizaje Sena
+PEC002;PE Banco de la República
+PEC003;PE Empresa de Teléfonos de Bogotá ETB
+PEC004;EAS Ferrocarriles Nacionales
+PEC005;PE Avianca
+PEC006;PE Bavaria
+REEC01;Ecopetrol S.A.
+REFM01;Dirección General de Sanidad Militar
+REMG01;Fiduciaria la Previsora S.A. Fiduprevisora S.A.
+REPN01;Dirección de Sanidad Policia Inacional
+RES001;RES Policia Nacional
+RES002;RES Ecopetrol
+RES003;RES Fuerzas Militares Hospital Militar
+RES004;RES Fondode Prestaciones Sociales del Magisterio
+RES005;Uatlantico
+RES006;Capruis
+RES007;Universidad del Valle
+RES008;Universidad Nacional
+RES009;Univeridad del Cauca
+RES010;Universidad de Cartagena
+RES011;Universidad de Antioquia
+RES012;Universidad de Córdoba
+RES013;Ferrocarriles
+RES014;UPTC
+RES015;RES Fondo de Prestaciones Sociales del Congreso de la República
+RES016;RES Inpec
+REUE01;Universidad Nacional de Colombia Unisalud
+REUE02;Caja de Previsión Social de la Universidad Industrial de Santander Capruis
+REUE03;Fondo de Salud Universidad de Córdoba
+REUE04;Caja de Previsión Social de la Universidad de Cartagena
+REUE05;Fondo de Seguridad Social en Salud Universidad de Nariño
+REUE06;Unidad de Salud Universidad del Cauca
+REUE07;Programa de Salud Universidad de Antioquia
+REUE08;Servicio de Salud Universidad del Valle
+REUE09;Unidad de Salud de la Universidad del Atlántico
+REUE10;Unidad de Servicios de Salud de la Universidad Pedagógica y Tecnológica de Colombia (Unisalud Uptc)
+SAP026;Emermedica S.A. Servicios de Ambulancia Prepagados
+SAP030;Empresa de Medicina Integral Emi Sa Servicio de Ambulancia Prepagada
+SAP031;Asistencia Medica Inmediataservicio de Ambulancia Prepagada S.A.
+SAP032;Servicio de Emergencias Regional (Servicio de Ambulancia Prepagado) S.A.
+SAP033;Coomeva Medicina Prepagada S.A.
+SAP034;Asistencia Medica SAS Servicio de Ambulancia Prepagado
+SAP035;Servicio de Asistencia Médica Inmediata S.A. Servicio de Ambulancia Prepagado
+SAP036;Sistema de Traslado Apoyo Diagnostico y Terapeutico en Salud Trasmedica S.A. S.A.P. en Liquidación
+SAP037;Servicios Médicos Integrales de Colombia Servicio de Ambulancias Prepagado S.A.S Usemi Sap S.A.S.O
+SAP038;Red Médica Médica Vital S.A.S. Servicio de Ambulancia Prepagado (Sap)
+UT001;Caja Salud ARS UT Neiva
+UT001_;Caja Salud ARS UT Bogotá
+UT002;UT Comfamiliares en Salud UT (Comfamiliar Cartagena y Comfenalco Cartagena)
+UT003;Caja de Compensación Familiar de Antioquia (Comfama)
+UT004;UT Caja de Compensación Familiar de Antioquia Ucomfamao
+UT004_;Comfama
