@@ -1,0 +1,181 @@
+{
+  "title": "Protocolo de Limpieza y Desinfección",
+  "subcategories": [
+    {
+      "title": "Recursos necesarios para la desinfección",
+      "book": [
+        [
+          { "type": "title", "category": 3, "text": "Elementos de limpieza" },
+          { "type": "title", "category": 4, "text": "1. Jabón" },
+          {
+            "type": "row",
+            "children": [
+              { "type": "image", "src": "https://imgur.com/TD79XFc.png" },
+              {
+                "type": "text",
+                "text": "El jabón afecta la membrana lipídica del virus, por lo que se recomienda su uso. Puede utilizar el jabón de su agrado."
+              }
+            ]
+          },
+          { "type": "title", "category": 4, "text": "2. Desinfectante" },
+          {
+            "type": "row",
+            "children": [
+              {
+                "type": "image",
+                "src": "https://imgur.com/vJecfBN.png"
+              },
+              {
+                "type": "text",
+                "text": "Existen distintos tipos de desinfectantes, se recomienda usarlos con precaución debido a que algunos pueden generar irritación en los ojos, piel o mucosas.  Se recomienda para la limpieza de pisos hipoclorito de uso doméstico."
+              }
+            ]
+          },
+          { "type": "title", "category": 4, "text": "3. Alcohol al 70%" },
+          {
+            "type": "row",
+            "children": [
+              {
+                "type": "image",
+                "src": "https://imgur.com/wM94hfa.png"
+              },
+              {
+                "type": "text",
+                "text": "Se debe aplicar para la desinfección como se detalla en el apartado de desinfección de la casa."
+              }
+            ]
+          },
+          { "type": "title", "category": 4, "text": "4. Alcohol glicerinado" },
+          {
+            "type": "row",
+            "children": [
+              {
+                "type": "image",
+                "src": "https://imgur.com/M6vIKDU.png"
+              },
+              {
+                "type": "text",
+                "text": "Se puede usar para el lavado de manos en los momentos que no se cuente con agua y jabón y las manos están visualmente limpias."
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Desinfección de elementos que vienen de afuera",
+      "book": [
+        [
+          {
+            "type": "title",
+            "category": 3,
+            "text": "¿Cada cuanto me toca desinfectar lo que venga de afuera?"
+          },
+          {
+            "type": "text",
+            "text": "Siempre que llegue alguno de estos elementos:"
+          },
+          { "type": "title", "category": 4, "text": "Alimentos" },
+          {
+            "type": "text",
+            "text": "No tienes que limpiar los alimentos en sí, pero es muy importante el lavado de manos tanto al llegar a casa después de mercar como a la hora de consumirlos. Se recomienda lavar las cajas y enlatados con agua y jabón o toallitas desinfectantes."
+          },
+          { "type": "title", "category": 4, "text": "Domicilios" },
+          {
+            "type": "text",
+            "text": "Recíbelos con guantes y tapabocas. Tener el mínimo contacto posible con el domiciliario. Finalmente limpiar los empaques con toallitas desinfectantes o rociándolos con alcohol."
+          },
+          { "type": "title", "category": 4, "text": "Correos y paquetes" },
+          {
+            "type": "text",
+            "text": "Cuando llegue el paquete, límpialo con alcohol, al igual que la superficie donde se colocó dicho paquete. Tener el mínimo contacto posible con el domiciliario."
+          },
+          { "type": "title", "category": 4, "text": "Zapatos" },
+          {
+            "type": "text",
+            "text": "Al llegar a casa, quítate los zapatos y lava la suela con agua y con jabón, o rocíala con alcohol. Se recomienda utilizar unos zapatos para salir y no usarlos dentro de la casa."
+          },
+          { "type": "title", "category": 4, "text": "Carro particular" },
+          {
+            "type": "text",
+            "text": "Limpia las manillas y el volante con alcohol o pañitos desinfectantes."
+          },
+          { "type": "title", "category": 4, "text": "Ropa" },
+          {
+            "type": "text",
+            "text": "Cámbiate toda la ropa al llegar. Separa la ropa que se usa para salir de casa y lávala por separado, según las instrucciones de lavado de ropa."
+          },
+          { "type": "title", "category": 4, "text": "Personas" },
+          {
+            "type": "text",
+            "text": "Si una persona llega de afuera a tu hogar, es recomendable que siga los protocolos de ropa y zapatos, y también que se bañe con agua y jabón."
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Desinfección de zonas de la casa",
+      "book": [
+        [
+          {
+            "type": "title",
+            "category": 3,
+            "text": "1. Vas a necesitar los siguientes elementos de protección personal:"
+          },
+          {
+            "type": "image",
+            "src": "https://imgur.com/wM94hfa.png"
+          },
+          {
+            "type": "text",
+            "text": "Guantes y tapaboca. Asegúrate de que el tapabocas cubra desde tu nariz  hasta el mentón."
+          },
+          {
+            "type": "title",
+            "category": 3,
+            "text": "¿Cada cuanto me toca desinfectar lo que venga de afuera?"
+          },
+          {
+            "type": "text",
+            "text": "Siempre que llegue alguno de estos elementos:"
+          },
+          { "type": "title", "category": 4, "text": "Alimentos" },
+          {
+            "type": "text",
+            "text": "No tienes que limpiar los alimentos en sí, pero es muy importante el lavado de manos tanto al llegar a casa después de mercar como a la hora de consumirlos. Se recomienda lavar las cajas y enlatados con agua y jabón o toallitas desinfectantes."
+          },
+          { "type": "title", "category": 4, "text": "Domicilios" },
+          {
+            "type": "text",
+            "text": "Recíbelos con guantes y tapabocas. Tener el mínimo contacto posible con el domiciliario. Finalmente limpiar los empaques con toallitas desinfectantes o rociándolos con alcohol."
+          },
+          { "type": "title", "category": 4, "text": "Correos y paquetes" },
+          {
+            "type": "text",
+            "text": "Cuando llegue el paquete, límpialo con alcohol, al igual que la superficie donde se colocó dicho paquete. Tener el mínimo contacto posible con el domiciliario."
+          },
+          { "type": "title", "category": 4, "text": "Zapatos" },
+          {
+            "type": "text",
+            "text": "Al llegar a casa, quítate los zapatos y lava la suela con agua y con jabón, o rocíala con alcohol. Se recomienda utilizar unos zapatos para salir y no usarlos dentro de la casa."
+          },
+          { "type": "title", "category": 4, "text": "Carro particular" },
+          {
+            "type": "text",
+            "text": "Limpia las manillas y el volante con alcohol o pañitos desinfectantes."
+          },
+          { "type": "title", "category": 4, "text": "Ropa" },
+          {
+            "type": "text",
+            "text": "Cámbiate toda la ropa al llegar. Separa la ropa que se usa para salir de casa y lávala por separado, según las instrucciones de lavado de ropa."
+          },
+          { "type": "title", "category": 4, "text": "Personas" },
+          {
+            "type": "text",
+            "text": "Si una persona llega de afuera a tu hogar, es recomendable que siga los protocolos de ropa y zapatos, y también que se bañe con agua y jabón."
+          }
+        ]
+      ]
+    }
+  ]
+}
