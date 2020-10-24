@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import fond from './fond.jpg';
+import "./form.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Form from './components/Form';
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <img src={fond} className="App-fond" alt="fondo" />
+        <div className="form-group col-md-12">
+          <div className="div-title">
+            <h1 className="App-title">Administración</h1>
+          </div>
+        </div>
+        <div className="container">
+          <div className="row">
+              <div className="col-md-12">
+                <h2>Registro de Protocolos</h2>
+              </div>
+              <Form />  
+          </div>  
+        </div>
+      </div>
+    )
+  }
 }
 
 export default App;
