@@ -1,0 +1,73 @@
+.content-wizard{
+    margin-top: 5%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.nav{
+    border-radius: 10px 10px 0px 0px;
+    background-color: #17a2b8;
+    color: white;
+    padding: 10px;
+}
+
+.step{
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #f8f9fa;
+}
+
+.btn-control{
+    color: aliceblue;
+    margin: 5px;
+    background: #17a2b8;
+}
+
+.btn-plus{
+    color: #17a2b8;
+}
+
+.content-button{
+    width: 100%;
+    text-align: end;
+}
+
+.data-step{
+    width: 100%;
+}
+
+/* .content-protocol{
+    background-color: #d9eae8;
+} */
+
+.content-title{
+    background-color: #eeeeee;
+}
+
+/* Book */
+.content-book{
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #17a2b8;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.book-title{
+    font-style: italic;
+    margin-top: 5px;
+}
+
+/* Item */
+.item{
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #17a2b8;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+/* Important Children */
+.children{
+    margin-bottom: 5px;
+}
